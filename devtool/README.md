@@ -1,5 +1,5 @@
 ## introduce
-A mybatis generator plugin extends package
+A mybatis/jooq generator plugin enhance util
 
 usage see:
 devtool-example
