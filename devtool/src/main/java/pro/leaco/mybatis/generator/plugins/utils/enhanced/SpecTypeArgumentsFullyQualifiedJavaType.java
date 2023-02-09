@@ -19,13 +19,6 @@ package pro.leaco.mybatis.generator.plugins.utils.enhanced;
 import org.mybatis.generator.api.dom.java.FullyQualifiedJavaType;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: hewei
- * @time:2018/11/2 18:21
- * ---------------------------------------------------------------------------
  */
 public class SpecTypeArgumentsFullyQualifiedJavaType extends FullyQualifiedJavaType {
     private String fullTypeSpecification;

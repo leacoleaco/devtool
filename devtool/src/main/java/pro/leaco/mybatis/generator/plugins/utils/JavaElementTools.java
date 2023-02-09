@@ -23,13 +23,6 @@ import org.mybatis.generator.api.dom.java.Parameter;
 import org.mybatis.generator.api.dom.java.TypeParameter;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: hewei
- * @time:2018/5/7 18:14
- * ---------------------------------------------------------------------------
  */
 public class JavaElementTools {
     /**

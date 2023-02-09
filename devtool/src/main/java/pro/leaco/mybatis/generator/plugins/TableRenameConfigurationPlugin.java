@@ -39,13 +39,6 @@ import static org.mybatis.generator.internal.util.StringUtility.isTrue;
 import static org.mybatis.generator.internal.util.StringUtility.stringHasValue;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: hewei
- * @time:2018/5/21 11:23
- * ---------------------------------------------------------------------------
  */
 public class TableRenameConfigurationPlugin extends BasePlugin implements ITableConfigurationHook {
     public static final String PRO_TABLE_SEARCH_STRING = "domainObjectRenamingRule.searchString";  // 查找 property

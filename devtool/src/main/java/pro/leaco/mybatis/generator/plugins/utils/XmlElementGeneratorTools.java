@@ -37,8 +37,8 @@ import static org.mybatis.generator.internal.util.StringUtility.stringHasValue;
  * Xml 节点生成工具 参考 org.mybatis.generator.codegen.mybatis3.xmlmapper.elements.AbstractXmlElementGenerator
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2016/12/29 16:47
+ *
+ *
  * ---------------------------------------------------------------------------
  */
 public class XmlElementGeneratorTools {
@@ -535,7 +535,6 @@ public class XmlElementGeneratorTools {
      *
      * @param element
      * @param primaryKeyColumns
-     * @return
      */
     public static void generateWhereByPrimaryKeyTo(XmlElement element, List<IntrospectedColumn> primaryKeyColumns) {
         generateWhereByPrimaryKeyTo(element, primaryKeyColumns, null);
@@ -547,7 +546,6 @@ public class XmlElementGeneratorTools {
      * @param element
      * @param primaryKeyColumns
      * @param prefix
-     * @return
      */
     public static void generateWhereByPrimaryKeyTo(XmlElement element, List<IntrospectedColumn> primaryKeyColumns, String prefix) {
         StringBuilder sb = new StringBuilder();

@@ -35,13 +35,6 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: hewei
- * @time:2019/7/4 11:01
- * ---------------------------------------------------------------------------
  */
 public class IncrementPlugin extends BasePlugin implements IIncrementPluginHook {
     public static final String PRO_INCREMENT_COLUMNS = "incrementColumns";

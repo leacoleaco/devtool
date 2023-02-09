@@ -20,13 +20,6 @@ import org.mybatis.generator.api.IntrospectedTable;
 import org.mybatis.generator.api.dom.java.TopLevelClass;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: hewei
- * @time:2018/10/31 17:27
- * ---------------------------------------------------------------------------
  */
 public interface ILombokPluginHook {
     /**

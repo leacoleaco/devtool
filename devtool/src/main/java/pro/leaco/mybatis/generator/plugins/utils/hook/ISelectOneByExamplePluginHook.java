@@ -23,13 +23,6 @@ import org.mybatis.generator.api.dom.xml.Document;
 import org.mybatis.generator.api.dom.xml.XmlElement;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: hewei
- * @time:2018/5/7 18:51
- * ---------------------------------------------------------------------------
  */
 public interface ISelectOneByExamplePluginHook {
 

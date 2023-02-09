@@ -32,8 +32,8 @@ import pro.leaco.mybatis.generator.plugins.utils.hook.IModelColumnPluginHook;
  * 数据Model属性对应Column获取插件
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2017/1/17 11:20
+ * 
+ * 
  * ---------------------------------------------------------------------------
  */
 public class ModelColumnPlugin extends BasePlugin {

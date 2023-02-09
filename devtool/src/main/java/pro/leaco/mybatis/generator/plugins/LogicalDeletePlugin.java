@@ -39,8 +39,8 @@ import static org.mybatis.generator.internal.util.StringUtility.stringHasValue;
  * 逻辑删除插件
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2017/1/13 14:08
+ * 
+ * 
  * ---------------------------------------------------------------------------
  */
 public class LogicalDeletePlugin extends BasePlugin {
@@ -116,7 +116,6 @@ public class LogicalDeletePlugin extends BasePlugin {
      * 具体执行顺序 http://www.mybatis.org/generator/reference/pluggingIn.html
      *
      * @param introspectedTable
-     * @return
      */
     @Override
     public void initialized(IntrospectedTable introspectedTable) {

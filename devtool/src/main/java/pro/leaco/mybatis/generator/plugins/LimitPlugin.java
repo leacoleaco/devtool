@@ -35,8 +35,8 @@ import java.util.List;
  * 增加分页方法
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2016/12/29 18:14
+ * 
+ * 
  * ---------------------------------------------------------------------------
  */
 public class LimitPlugin extends BasePlugin implements ISelectSelectivePluginHook {

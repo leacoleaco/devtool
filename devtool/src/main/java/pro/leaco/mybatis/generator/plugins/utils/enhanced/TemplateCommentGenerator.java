@@ -48,8 +48,8 @@ import static org.mybatis.generator.internal.util.StringUtility.isTrue;
  * 模板注释生成工具
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2017/6/8 13:21
+ * 
+ * 
  * ---------------------------------------------------------------------------
  */
 public class TemplateCommentGenerator implements CommentGenerator {

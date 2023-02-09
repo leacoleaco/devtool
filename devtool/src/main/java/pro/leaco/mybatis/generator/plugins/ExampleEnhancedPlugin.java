@@ -16,8 +16,8 @@ import java.util.List;
  * Example 增强插件
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2017/1/16 16:28
+ * 
+ * 
  * ---------------------------------------------------------------------------
  */
 public class ExampleEnhancedPlugin extends BasePlugin {

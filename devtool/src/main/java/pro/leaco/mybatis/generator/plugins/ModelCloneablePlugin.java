@@ -29,8 +29,8 @@ import pro.leaco.mybatis.generator.plugins.utils.JavaElementGeneratorTools;
  * Cloneable
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2018/11/7 15:26
+ * 
+ * 
  * ---------------------------------------------------------------------------
  */
 public class ModelCloneablePlugin extends BasePlugin {

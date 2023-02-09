@@ -40,8 +40,8 @@ import java.util.regex.Pattern;
  * LombokPlugin
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2018/10/29 14:33
+ *
+ *
  * ---------------------------------------------------------------------------
  */
 public class LombokPlugin extends BasePlugin {
@@ -91,7 +91,6 @@ public class LombokPlugin extends BasePlugin {
      * 具体执行顺序 http://www.mybatis.org/generator/reference/pluggingIn.html
      *
      * @param introspectedTable
-     * @return
      */
     @Override
     public void initialized(IntrospectedTable introspectedTable) {

@@ -35,12 +35,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * ---------------------------------------------------------------------------
  * type or status enum 插件
- * ---------------------------------------------------------------------------
  *
- * @author: leaco
- * ---------------------------------------------------------------------------
  */
 public class EnumTypeStatusPlugin extends BasePlugin implements ILogicalDeletePluginHook {
 
@@ -215,7 +211,6 @@ public class EnumTypeStatusPlugin extends BasePlugin implements ILogicalDeletePl
          * @param name
          * @param comment
          * @param value
-         * @return
          */
         public void addItem(String name, String comment, String value) {
             items.add(new EnumItemInfo(this.column, name, comment, value));
@@ -261,7 +256,7 @@ public class EnumTypeStatusPlugin extends BasePlugin implements ILogicalDeletePl
         }
 
         /**
-         * Getter method for property <tt>items</tt>.
+         * Getter method for property items.
          *
          * @return property value of items
          * @author hewei
@@ -362,7 +357,7 @@ public class EnumTypeStatusPlugin extends BasePlugin implements ILogicalDeletePl
             }
 
             /**
-             * Getter method for property <tt>comment</tt>.
+             * Getter method for property comment.
              *
              * @return property value of comment
              * @author hewei
@@ -372,7 +367,7 @@ public class EnumTypeStatusPlugin extends BasePlugin implements ILogicalDeletePl
             }
 
             /**
-             * Getter method for property <tt>name</tt>.
+             * Getter method for property name.
              *
              * @return property value of name
              * @author hewei
@@ -382,7 +377,7 @@ public class EnumTypeStatusPlugin extends BasePlugin implements ILogicalDeletePl
             }
 
             /**
-             * Getter method for property <tt>value</tt>.
+             * Getter method for property
              *
              * @return property value of value
              * @author hewei
@@ -405,7 +400,7 @@ public class EnumTypeStatusPlugin extends BasePlugin implements ILogicalDeletePl
             }
 
             /**
-             * Getter method for property <tt>value</tt>.
+             * Getter method for property
              *
              * @return property value of value
              * @author hewei

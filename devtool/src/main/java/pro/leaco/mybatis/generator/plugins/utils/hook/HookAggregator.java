@@ -32,13 +32,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2018/4/27 11:33
- * ---------------------------------------------------------------------------
  */
 public class HookAggregator implements IUpsertPluginHook,
         IModelBuilderPluginHook,
@@ -63,7 +57,7 @@ public class HookAggregator implements IUpsertPluginHook,
     }
 
     /**
-     * Getter method for property <tt>instance</tt>.
+     * Getter method for property instance.
      *
      * @return property value of instance
      * @author hewei
@@ -73,7 +67,7 @@ public class HookAggregator implements IUpsertPluginHook,
     }
 
     /**
-     * Setter method for property <tt>context</tt>.
+     * Setter method for property
      *
      * @param context value to be assigned to property context
      * @author hewei

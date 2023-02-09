@@ -35,8 +35,8 @@ import java.util.List;
  * 增加Model Builder方法
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2016/12/28 14:56
+ * 
+ * 
  * ---------------------------------------------------------------------------
  */
 public class ModelBuilderPlugin extends BasePlugin implements ILombokPluginHook {

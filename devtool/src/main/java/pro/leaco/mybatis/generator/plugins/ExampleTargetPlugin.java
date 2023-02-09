@@ -31,8 +31,8 @@ import java.util.Properties;
  * Example类生成位置修改
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2017/1/12 12:36
+ * 
+ * 
  * ---------------------------------------------------------------------------
  */
 public class ExampleTargetPlugin extends BasePlugin {

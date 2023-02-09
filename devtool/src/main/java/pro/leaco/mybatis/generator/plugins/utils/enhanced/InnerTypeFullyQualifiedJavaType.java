@@ -21,13 +21,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: hewei
- * @time:2017/8/2 16:55
- * ---------------------------------------------------------------------------
  */
 public class InnerTypeFullyQualifiedJavaType extends FullyQualifiedJavaType {
     private final static Logger logger = LoggerFactory.getLogger(InnerTypeFullyQualifiedJavaType.class);

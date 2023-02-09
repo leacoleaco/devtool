@@ -44,8 +44,8 @@ import java.util.Optional;
  * Selective 增强插件
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2018/4/20 15:39
+ * 
+ * 
  * ---------------------------------------------------------------------------
  */
 public class SelectiveEnhancedPlugin extends BasePlugin implements IUpsertPluginHook, IOptimisticLockerPluginHook {

@@ -25,13 +25,6 @@ import pro.leaco.mybatis.generator.plugins.utils.BasePlugin;
 import java.util.*;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: hewei
- * @time:2019/7/9 14:30
- * ---------------------------------------------------------------------------
  */
 public class MapperAnnotationPlugin extends BasePlugin {
     private final static Map<String, String> ANNOTATION_IMPORTS;
@@ -48,7 +41,6 @@ public class MapperAnnotationPlugin extends BasePlugin {
      * 具体执行顺序 http://www.mybatis.org/generator/reference/pluggingIn.html
      *
      * @param introspectedTable
-     * @return
      */
     @Override
     public void initialized(IntrospectedTable introspectedTable) {
@@ -77,7 +69,6 @@ public class MapperAnnotationPlugin extends BasePlugin {
      * 具体执行顺序 http://www.mybatis.org/generator/reference/pluggingIn.html
      *
      * @param interfaze
-     * @param topLevelClass
      * @param introspectedTable
      * @return
      */

@@ -24,13 +24,6 @@ import org.mybatis.generator.api.dom.xml.Document;
 import org.mybatis.generator.api.dom.xml.XmlElement;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: hewei
- * @time:2018/9/11 11:00
- * ---------------------------------------------------------------------------
  */
 public interface ILogicalDeletePluginHook {
     /**

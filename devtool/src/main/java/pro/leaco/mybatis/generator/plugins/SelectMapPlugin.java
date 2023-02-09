@@ -35,12 +35,6 @@ import java.util.List;
 import static org.mybatis.generator.internal.util.StringUtility.stringHasValue;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: leaco
- * ---------------------------------------------------------------------------
  */
 public class SelectMapPlugin extends BasePlugin implements ISelectOneByExamplePluginHook {
     public static final String SELECT_BY_EXAMPLE_WHERE_CLAUSE = "Select_By_Example_Where_Clause";

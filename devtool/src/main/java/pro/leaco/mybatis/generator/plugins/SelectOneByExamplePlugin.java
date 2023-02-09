@@ -33,8 +33,8 @@ import static org.mybatis.generator.internal.util.StringUtility.stringHasValue;
  * 增加查询一条数据方法
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2016/12/28 14:56
+ * 
+ * 
  * ---------------------------------------------------------------------------
  */
 public class SelectOneByExamplePlugin extends BasePlugin {

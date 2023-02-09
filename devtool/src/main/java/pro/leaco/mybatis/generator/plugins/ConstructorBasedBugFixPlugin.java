@@ -33,8 +33,8 @@ import java.util.List;
  * constructorBased 官方 bug 修正插件
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2017/7/28 11:05
+ * 
+ * 
  * ---------------------------------------------------------------------------
  */
 public class ConstructorBasedBugFixPlugin extends BasePlugin {

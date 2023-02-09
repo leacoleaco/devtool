@@ -36,8 +36,8 @@ import java.util.Properties;
  * 存在即更新插件
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2017/3/21 10:59
+ * 
+ * 
  * ---------------------------------------------------------------------------
  */
 public class UpsertPlugin extends BasePlugin {
@@ -99,7 +99,6 @@ public class UpsertPlugin extends BasePlugin {
      * 具体执行顺序 http://www.mybatis.org/generator/reference/pluggingIn.html
      *
      * @param interfaze
-     * @param topLevelClass
      * @param introspectedTable
      * @return
      */

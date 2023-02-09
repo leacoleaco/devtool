@@ -21,13 +21,6 @@ import org.mybatis.generator.api.dom.java.InnerEnum;
 import org.mybatis.generator.api.dom.java.TopLevelClass;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: hewei
- * @time:2019/7/5 14:17
- * ---------------------------------------------------------------------------
  */
 public interface IModelColumnPluginHook {
     /**

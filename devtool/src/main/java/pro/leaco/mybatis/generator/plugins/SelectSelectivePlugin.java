@@ -37,13 +37,6 @@ import java.util.List;
 import static org.mybatis.generator.internal.util.StringUtility.stringHasValue;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: hewei
- * @time:2017/6/29 13:34
- * ---------------------------------------------------------------------------
  */
 public class SelectSelectivePlugin extends BasePlugin implements ISelectOneByExamplePluginHook {
     public static final String METHOD_SELECT_BY_EXAMPLE_SELECTIVE = "selectByExampleSelective";

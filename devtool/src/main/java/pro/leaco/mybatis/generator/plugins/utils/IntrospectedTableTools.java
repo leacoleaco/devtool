@@ -36,8 +36,8 @@ import java.util.Optional;
  * IntrospectedTable 的一些拓展增强
  * ---------------------------------------------------------------------------
  *
- * @author: hewei
- * @time:2017/6/13 13:48
+ *
+ *
  * ---------------------------------------------------------------------------
  */
 public class IntrospectedTableTools {
@@ -85,11 +85,11 @@ public class IntrospectedTableTools {
     }
 
     /**
-     * 安全获取column 通过正则获取的name可能包含beginningDelimiter&&endingDelimiter
+     * 安全获取column
+     * 通过正则获取的name可能包含异常符号
      *
      * @param introspectedTable
      * @param columnName
-     * @return
      */
     public static Optional<IntrospectedColumn> safeGetColumn(IntrospectedTable introspectedTable, String columnName) {
         // columnName

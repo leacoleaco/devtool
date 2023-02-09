@@ -19,13 +19,6 @@ package pro.leaco.mybatis.generator.plugins.utils.hook;
 import org.mybatis.generator.api.IntrospectedTable;
 
 /**
- * ---------------------------------------------------------------------------
- * <p>
- * ---------------------------------------------------------------------------
- *
- * @author: hewei
- * @time:2018/5/21 11:24
- * ---------------------------------------------------------------------------
  */
 public interface ITableConfigurationHook {
     /**
